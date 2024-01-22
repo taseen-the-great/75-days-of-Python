@@ -1,1 +1,1 @@
-# Snake.py
+This is my first python game project
